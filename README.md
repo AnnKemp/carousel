@@ -1,4 +1,5 @@
 # carousel
+Display link on GitHub: https://annkemp.github.io/carousel/
 
 Title: One more round on the Carousel!
 The Mission

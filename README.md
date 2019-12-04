@@ -1,5 +1,6 @@
 # carousel
 Display link on GitHub: https://annkemp.github.io/carousel/
+SSH-link:git@github.com:AnnKemp/carousel.git
 
 Title: One more round on the Carousel!
 The Mission
